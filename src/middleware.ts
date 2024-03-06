@@ -18,5 +18,5 @@ export default async function middleware(req: NextRequest) {
 }
 
 export const matcher = {
-  matcher: ["/analytics"],
+  matcher: ["/"],
 };
